@@ -1,0 +1,19 @@
+{
+  "name": "fccprojects",
+  "version": "1.0.0",
+  "description": "my personal projects & algorithmns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lone-DO/freecodecamp.git"
+  },
+  "author": "lone-DO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lone-DO/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/Lone-DO/freecodecamp#readme"
+}
